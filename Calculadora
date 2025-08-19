@@ -1,0 +1,36 @@
+# Projeto: Calculadora Simples
+
+## 🎯 Objetivo do Projeto
+
+Este projeto consiste em uma calculadora web básica que realiza as quatro operações fundamentais: adição, subtração, multiplicação e divisão. Foi desenvolvido com o objetivo principal de consolidar os conhecimentos em [sua linguagem, ex: JavaScript] para manipulação do DOM e lógica de programação.
+
+## 💻 Tecnologias Utilizadas
+
+* **HTML:** Para estruturar a interface da calculadora (botões, display, etc.).
+* **CSS:** Para estilizar a calculadora e dar a ela um visual limpo e funcional.
+* **JavaScript:** Para implementar toda a lógica de cálculo e as interações com o usuário.
+
+## ✨ O que eu Aprendi
+
+Durante o desenvolvimento deste projeto, pude aprofundar meus conhecimentos nas seguintes áreas:
+
+* **Lógica de Programação:** Aprimorei a capacidade de criar algoritmos para resolver problemas, como a ordem de precedência das operações e o tratamento de erros.
+* **Manipulação do DOM:** Ganhei mais fluidez na manipulação de elementos HTML e na forma de "ouvir" os eventos de clique do usuário.
+* **Estrutura de Código:** Aprendi a organizar o código de forma mais clara e modular, separando as responsabilidades de cada parte da aplicação.
+* **Resolução de Problemas:** Enfrentei desafios, como garantir que a divisão por zero não quebre a aplicação, e aprendi a buscar soluções de forma autônoma.
+
+## 🚀 Como Executar
+
+Para ver a calculadora funcionando, siga estes passos simples:
+
+1.  Clone este repositório para o seu computador.
+2.  Abra a pasta do projeto.
+3.  Abra o arquivo `index.html` em qualquer navegador web moderno.
+
+## 📌 Status do Projeto
+
+Este projeto está **concluído**. Foi uma ótima experiência de aprendizado para solidificar as bases do desenvolvimento web.
+
+## ✍️ Autor
+
+[Lucas Andrade]
